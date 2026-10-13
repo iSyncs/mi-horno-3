@@ -1,0 +1,503 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2026-04-23T01:55:22Z",
+        "event" : "dataSourceCreated",
+        "id" : "9F006E38-E08B-4048-BF41-FB94446669F7",
+        "subtitle" : "Horno3Fotos",
+        "title" : "Data Source Created"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2026-04-23T01:55:29Z",
+        "event" : "dataSourceMetrics",
+        "id" : "51A4A429-5019-48FA-8956-34D0EE68BB90",
+        "subtitle" : "14 Classes, 100 Items",
+        "title" : "Data Summary"
+      }
+    ],
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2026-04-23T01:55:29Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "9D3704BE-89F3-4CC9-8F2F-443E52B3AB89",
+        "subtitle" : "MyImageClassifier 1",
+        "title" : "Used By"
+      }
+    ]
+  ],
+  "createdDate" : "2026-04-23T01:55:22Z",
+  "dataPathRelativeToProjectURL" : "../../../Downloads/Horno3Fotos/",
+  "dataResult" : {
+    "classesCount" : 14,
+    "createdDate" : "2026-04-23T01:55:22Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+        "details" : [
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_6062.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0054.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Torpedo_HISTORIA/IMG_3816.JPG",
+          [
+            "Torpedo_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/MaquetaHorno3_HISTORIA/IMG_9852.JPG",
+          [
+            "MaquetaHorno3_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/MaquetaHorno3_HISTORIA/IMG_9849.JPG",
+          [
+            "MaquetaHorno3_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0052.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_6063.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Torpedo_HISTORIA/IMG_3815.JPG",
+          [
+            "Torpedo_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_6001.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_9909.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Dinamita_ACERO/IMG_9975.JPG",
+          [
+            "Dinamita_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Cucharon_HISTORIA/IMG_9941.JPG",
+          [
+            "Cucharon_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Dinamita_ACERO/IMG_9978.JPG",
+          [
+            "Dinamita_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_3886.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0045.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Bocho_ACERO/bocho3.JPG",
+          [
+            "Bocho_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_6061.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0048.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0053.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_5999.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Torpedo_HISTORIA/IMG_3820.JPG",
+          [
+            "Torpedo_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0049.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Extintor_HISTORIA/IMG_9893.JPG",
+          [
+            "Extintor_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0044.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Camioneta_HISTORIA/IMG_9931.JPG",
+          [
+            "Camioneta_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Estrella_GENERAL/IMG_9830.JPG",
+          [
+            "Estrella_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Planchones_ACERO/IMG_6051.JPG",
+          [
+            "Planchones_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Torpedo_HISTORIA/IMG_3814.JPG",
+          [
+            "Torpedo_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_3885.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Bocho_ACERO/bocho2.JPG",
+          [
+            "Bocho_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Cucharon_HISTORIA/IMG_9943.JPG",
+          [
+            "Cucharon_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0056.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Camioneta_HISTORIA/IMG_9928.JPG",
+          [
+            "Camioneta_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Cucharon_HISTORIA/IMG_9945.JPG",
+          [
+            "Cucharon_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/Copia%20de%20IMG_0052.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_6066.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0057.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/MaquetaHorno3_HISTORIA/IMG_9850.JPG",
+          [
+            "MaquetaHorno3_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Cucharon_HISTORIA/IMG_9942.JPG",
+          [
+            "Cucharon_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_3887.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/TelefonoVintage_HISTORIA/IMG_3915.JPG",
+          [
+            "TelefonoVintage_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Camioneta_HISTORIA/IMG_9930.JPG",
+          [
+            "Camioneta_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/TelefonoVintage_HISTORIA/IMG_3914.JPG",
+          [
+            "TelefonoVintage_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/TelefonoVintage_HISTORIA/IMG_3918.JPG",
+          [
+            "TelefonoVintage_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Camioneta_HISTORIA/IMG_9929.JPG",
+          [
+            "Camioneta_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Bocho_ACERO/bocho5.JPG",
+          [
+            "Bocho_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Cucharon_HISTORIA/IMG_9944.JPG",
+          [
+            "Cucharon_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/Copia%20de%20IMG_0047.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0055.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/TelefonoVintage_HISTORIA/IMG_9938.JPG",
+          [
+            "TelefonoVintage_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Maquinaescribir_HISTORIA/IMG_3852.JPG",
+          [
+            "Maquinaescribir_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Estrella_GENERAL/IMG_9831.JPG",
+          [
+            "Estrella_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_3888.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Bocho_ACERO/bocho6.JPG",
+          [
+            "Bocho_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Cucharon_HISTORIA/IMG_9946.JPG",
+          [
+            "Cucharon_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Bocho_ACERO/bocho.JPG",
+          [
+            "Bocho_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_6069.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_6067.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/TelefonoVintage_HISTORIA/IMG_3916.JPG",
+          [
+            "TelefonoVintage_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/TelefonoVintage_HISTORIA/IMG_3913.JPG",
+          [
+            "TelefonoVintage_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0051.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/MaquetaHorno3_HISTORIA/IMG_9851.JPG",
+          [
+            "MaquetaHorno3_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_6065.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Grua_ACERO/IMG_0001.JPG",
+          [
+            "Grua_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Maquinaescribir_HISTORIA/IMG_3856.JPG",
+          [
+            "Maquinaescribir_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Dinamita_ACERO/IMG_9972.JPG",
+          [
+            "Dinamita_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Torpedo_HISTORIA/IMG_3817.JPG",
+          [
+            "Torpedo_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Extintor_HISTORIA/IMG_9892.JPG",
+          [
+            "Extintor_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Torpedo_HISTORIA/IMG_3818.JPG",
+          [
+            "Torpedo_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_6068.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/Copia%20de%20IMG_0056.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/Copia%20de%20IMG_0050.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_6064.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_9908.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Planchones_ACERO/IMG_6052.JPG",
+          [
+            "Planchones_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Dinamita_ACERO/IMG_9973.JPG",
+          [
+            "Dinamita_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0060.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Cucharon_HISTORIA/IMG_9940.JPG",
+          [
+            "Cucharon_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Maquinaescribir_HISTORIA/IMG_3854.JPG",
+          [
+            "Maquinaescribir_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/TelefonoVintage_HISTORIA/IMG_3917.JPG",
+          [
+            "TelefonoVintage_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0047.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0058.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Maquinaescribir_HISTORIA/IMG_3853.JPG",
+          [
+            "Maquinaescribir_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_3889.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Grua_ACERO/IMG_9999.JPG",
+          [
+            "Grua_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Tele_HISTORIA/IMG_9910.JPG",
+          [
+            "Tele_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Extintor_HISTORIA/IMG_9891.JPG",
+          [
+            "Extintor_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Dinamita_ACERO/IMG_9976.JPG",
+          [
+            "Dinamita_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Dinamita_ACERO/IMG_9971.JPG",
+          [
+            "Dinamita_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/TelefonoVintage_HISTORIA/IMG_9939.JPG",
+          [
+            "TelefonoVintage_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0050.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Bocho_ACERO/bocho4.JPG",
+          [
+            "Bocho_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Dinamita_ACERO/IMG_9977.JPG",
+          [
+            "Dinamita_ACERO"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0046.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/Copia%20de%20IMG_0057.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Torpedo_HISTORIA/IMG_3819.JPG",
+          [
+            "Torpedo_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Estrella_GENERAL/IMG_9829.JPG",
+          [
+            "Estrella_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Maquinaescribir_HISTORIA/IMG_3855.JPG",
+          [
+            "Maquinaescribir_HISTORIA"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Observador_GENERAL/IMG_0059.JPG",
+          [
+            "Observador_GENERAL"
+          ],
+          "file:///Users/baranda/Downloads/Horno3Fotos/Estrella_GENERAL/IMG_9832.JPG",
+          [
+            "Estrella_GENERAL"
+          ]
+        ],
+        "labelStats" : {
+          "Bocho_ACERO" : 6,
+          "Camioneta_HISTORIA" : 4,
+          "Cucharon_HISTORIA" : 7,
+          "Dinamita_ACERO" : 7,
+          "Estrella_GENERAL" : 4,
+          "Extintor_HISTORIA" : 3,
+          "Grua_ACERO" : 2,
+          "MaquetaHorno3_HISTORIA" : 4,
+          "Maquinaescribir_HISTORIA" : 5,
+          "Observador_GENERAL" : 31,
+          "Planchones_ACERO" : 2,
+          "Tele_HISTORIA" : 10,
+          "TelefonoVintage_HISTORIA" : 8,
+          "Torpedo_HISTORIA" : 7
+        }
+      },
+      "issues" : [
+        {
+          "description" : "14 classes found, including Observador_GENERAL, Tele_HISTORIA, TelefonoVintage_HISTORIA",
+          "severity" : "debug"
+        },
+        {
+          "description" : "100 images found, automatically creating validation set",
+          "severity" : "good"
+        },
+        {
+          "description" : "Smallest class is \"Grua_ACERO\" with 2 images",
+          "severity" : "debug"
+        },
+        {
+          "description" : "Largest class is \"Observador_GENERAL\" with 31 images",
+          "severity" : "debug"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "classCount" : 14,
+        "sampleCount" : 100
+      }
+    },
+    "dataSourceID" : "5447317A-D088-49D7-AEF7-B186D9356493",
+    "dataURL" : "file:///Users/baranda/Downloads/Horno3Fotos/",
+    "itemsCount" : 100
+  },
+  "dataURL" : "file:///Users/baranda/Downloads/Horno3Fotos/",
+  "experimentIDs" : [
+    "79CAC86A-A9D1-48F1-ACBB-CF0A283BFB6D"
+  ],
+  "id" : "5447317A-D088-49D7-AEF7-B186D9356493",
+  "modifiedDate" : "2026-04-23T01:55:35Z",
+  "pathType" : 0,
+  "preferredFilename" : "Horno3Fotos",
+  "title" : "Horno3Fotos",
+  "version" : "1.0"
+}

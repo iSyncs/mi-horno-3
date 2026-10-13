@@ -1,0 +1,991 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5DEEE0552FA16572009520AA /* MLXLLM in Frameworks */ = {isa = PBXBuildFile; productRef = 5DEEE0542FA16572009520AA /* MLXLLM */; };
+		5DEEE0572FA16572009520AA /* MLXLMCommon in Frameworks */ = {isa = PBXBuildFile; productRef = 5DEEE0562FA16572009520AA /* MLXLMCommon */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		932503622F95858300E7F154 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5DDBD8EA2F66E881003E0A02 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5DDBD8F12F66E881003E0A02;
+			remoteInfo = "Mi Horno 3";
+		};
+		9325036F2F9585A600E7F154 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5DDBD8EA2F66E881003E0A02 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5DDBD8F12F66E881003E0A02;
+			remoteInfo = "Mi Horno 3";
+		};
+		932503822F95D01E00E7F154 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5DDBD8EA2F66E881003E0A02 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5DDBD8F12F66E881003E0A02;
+			remoteInfo = "Mi Horno 3";
+		};
+		93906C832F96A01000992B13 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5DDBD8EA2F66E881003E0A02 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5DDBD8F12F66E881003E0A02;
+			remoteInfo = "Mi Horno 3";
+		};
+		F82F0C662F678266006BFFCD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5DDBD8EA2F66E881003E0A02 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5DDBD8F12F66E881003E0A02;
+			remoteInfo = "Mi Horno 3";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		932176D42F9EC8B600B73CF7 /* CONTEXTO_GENERAL.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CONTEXTO_GENERAL.md; sourceTree = "<group>"; };
+		932176D52F9EC8C800B73CF7 /* GUIA_INTERACTIVA_ACERO.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = GUIA_INTERACTIVA_ACERO.md; sourceTree = "<group>"; };
+		932176D62F9EC8C900B73CF7 /* CONTEXTO_HISTORIA.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CONTEXTO_HISTORIA.md; sourceTree = "<group>"; };
+		932502B02F95805A00E7F154 /* Mi Horno 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mi Horno 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		932502B12F95805A00E7F154 /* VisionTest.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VisionTest.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9325036B2F9585A600E7F154 /* TestCarlos.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestCarlos.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9325037E2F95D01E00E7F154 /* TestJoel.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestJoel.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		93906C7F2F96A01000992B13 /* TestSebastian.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestSebastian.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A0EB752F99B60900F6162F /* Mi Horno 3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mi Horno 3Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		5D97C2A82F9536D700502DEA /* Exceptions for "Mi Horno 3" folder in "Mi Horno 3" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+				MyImageClassifier.mlproj,
+			);
+			target = 5DDBD8F12F66E881003E0A02 /* Mi Horno 3 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		5DDBD8F42F66E881003E0A02 /* Mi Horno 3 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				5D97C2A82F9536D700502DEA /* Exceptions for "Mi Horno 3" folder in "Mi Horno 3" target */,
+			);
+			path = "Mi Horno 3";
+			sourceTree = "<group>";
+		};
+		9325036C2F9585A600E7F154 /* TestCarlos */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TestCarlos;
+			sourceTree = "<group>";
+		};
+		9325037F2F95D01E00E7F154 /* TestJoel */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TestJoel;
+			sourceTree = "<group>";
+		};
+		93906C802F96A01000992B13 /* TestSebastian */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TestSebastian;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5DDBD8EF2F66E881003E0A02 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5DEEE0572FA16572009520AA /* MLXLMCommon in Frameworks */,
+				5DEEE0552FA16572009520AA /* MLXLLM in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9325035B2F95858300E7F154 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		932503682F9585A600E7F154 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9325037B2F95D01E00E7F154 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93906C7C2F96A01000992B13 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F82F0C5F2F678266006BFFCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5DDBD8E92F66E881003E0A02 = {
+			isa = PBXGroup;
+			children = (
+				932176D32F9EC7D700B73CF7 /* ContextoIA */,
+				5DDBD8F42F66E881003E0A02 /* Mi Horno 3 */,
+				932502B02F95805A00E7F154 /* Mi Horno 3.app */,
+				932502B12F95805A00E7F154 /* VisionTest.xctest */,
+				9325036B2F9585A600E7F154 /* TestCarlos.xctest */,
+				9325036C2F9585A600E7F154 /* TestCarlos */,
+				9325037E2F95D01E00E7F154 /* TestJoel.xctest */,
+				9325037F2F95D01E00E7F154 /* TestJoel */,
+				93906C7F2F96A01000992B13 /* TestSebastian.xctest */,
+				93906C802F96A01000992B13 /* TestSebastian */,
+				93A0EB752F99B60900F6162F /* Mi Horno 3Tests.xctest */,
+			);
+			sourceTree = "<group>";
+		};
+		932176D32F9EC7D700B73CF7 /* ContextoIA */ = {
+			isa = PBXGroup;
+			children = (
+				932176D42F9EC8B600B73CF7 /* CONTEXTO_GENERAL.md */,
+				932176D52F9EC8C800B73CF7 /* GUIA_INTERACTIVA_ACERO.md */,
+				932176D62F9EC8C900B73CF7 /* CONTEXTO_HISTORIA.md */,
+			);
+			path = ContextoIA;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5DDBD8F12F66E881003E0A02 /* Mi Horno 3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5DDBD8FD2F66E882003E0A02 /* Build configuration list for PBXNativeTarget "Mi Horno 3" */;
+			buildPhases = (
+				5DDBD8EE2F66E881003E0A02 /* Sources */,
+				5DDBD8EF2F66E881003E0A02 /* Frameworks */,
+				5DDBD8F02F66E881003E0A02 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				5DDBD8F42F66E881003E0A02 /* Mi Horno 3 */,
+			);
+			name = "Mi Horno 3";
+			packageProductDependencies = (
+				5DEEE0542FA16572009520AA /* MLXLLM */,
+				5DEEE0562FA16572009520AA /* MLXLMCommon */,
+			);
+			productName = "Mi Horno 3";
+			productReference = 932502B02F95805A00E7F154 /* Mi Horno 3.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9325035D2F95858300E7F154 /* Mi Horno 3Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 932503642F95858300E7F154 /* Build configuration list for PBXNativeTarget "Mi Horno 3Tests" */;
+			buildPhases = (
+				9325035A2F95858300E7F154 /* Sources */,
+				9325035B2F95858300E7F154 /* Frameworks */,
+				9325035C2F95858300E7F154 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				932503632F95858300E7F154 /* PBXTargetDependency */,
+			);
+			name = "Mi Horno 3Tests";
+			packageProductDependencies = (
+			);
+			productName = "Mi Horno 3Tests";
+			productReference = 93A0EB752F99B60900F6162F /* Mi Horno 3Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9325036A2F9585A600E7F154 /* TestCarlos */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 932503712F9585A600E7F154 /* Build configuration list for PBXNativeTarget "TestCarlos" */;
+			buildPhases = (
+				932503672F9585A600E7F154 /* Sources */,
+				932503682F9585A600E7F154 /* Frameworks */,
+				932503692F9585A600E7F154 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				932503702F9585A600E7F154 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9325036C2F9585A600E7F154 /* TestCarlos */,
+			);
+			name = TestCarlos;
+			packageProductDependencies = (
+			);
+			productName = TestCarlos;
+			productReference = 9325036B2F9585A600E7F154 /* TestCarlos.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9325037D2F95D01E00E7F154 /* TestJoel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 932503842F95D01E00E7F154 /* Build configuration list for PBXNativeTarget "TestJoel" */;
+			buildPhases = (
+				9325037A2F95D01E00E7F154 /* Sources */,
+				9325037B2F95D01E00E7F154 /* Frameworks */,
+				9325037C2F95D01E00E7F154 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				932503832F95D01E00E7F154 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9325037F2F95D01E00E7F154 /* TestJoel */,
+			);
+			name = TestJoel;
+			packageProductDependencies = (
+			);
+			productName = TestJoel;
+			productReference = 9325037E2F95D01E00E7F154 /* TestJoel.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		93906C7E2F96A01000992B13 /* TestSebastian */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93906C852F96A01000992B13 /* Build configuration list for PBXNativeTarget "TestSebastian" */;
+			buildPhases = (
+				93906C7B2F96A01000992B13 /* Sources */,
+				93906C7C2F96A01000992B13 /* Frameworks */,
+				93906C7D2F96A01000992B13 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93906C842F96A01000992B13 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				93906C802F96A01000992B13 /* TestSebastian */,
+			);
+			name = TestSebastian;
+			packageProductDependencies = (
+			);
+			productName = TestSebastian;
+			productReference = 93906C7F2F96A01000992B13 /* TestSebastian.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F82F0C612F678266006BFFCD /* VisionTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F82F0C6A2F678266006BFFCD /* Build configuration list for PBXNativeTarget "VisionTest" */;
+			buildPhases = (
+				F82F0C5E2F678266006BFFCD /* Sources */,
+				F82F0C5F2F678266006BFFCD /* Frameworks */,
+				F82F0C602F678266006BFFCD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F82F0C672F678266006BFFCD /* PBXTargetDependency */,
+			);
+			name = VisionTest;
+			packageProductDependencies = (
+			);
+			productName = VisionTest;
+			productReference = 932502B12F95805A00E7F154 /* VisionTest.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5DDBD8EA2F66E881003E0A02 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2630;
+				LastUpgradeCheck = 2630;
+				TargetAttributes = {
+					5DDBD8F12F66E881003E0A02 = {
+						CreatedOnToolsVersion = 26.3;
+					};
+					9325035D2F95858300E7F154 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = 5DDBD8F12F66E881003E0A02;
+					};
+					9325036A2F9585A600E7F154 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = 5DDBD8F12F66E881003E0A02;
+					};
+					9325037D2F95D01E00E7F154 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = 5DDBD8F12F66E881003E0A02;
+					};
+					93906C7E2F96A01000992B13 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = 5DDBD8F12F66E881003E0A02;
+					};
+					F82F0C612F678266006BFFCD = {
+						CreatedOnToolsVersion = 26.2;
+						TestTargetID = 5DDBD8F12F66E881003E0A02;
+					};
+				};
+			};
+			buildConfigurationList = 5DDBD8ED2F66E881003E0A02 /* Build configuration list for PBXProject "Mi Horno 3" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5DDBD8E92F66E881003E0A02;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				5DEEE0532FA16572009520AA /* XCRemoteSwiftPackageReference "mlx-swift-examples" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 5DDBD8E92F66E881003E0A02;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5DDBD8F12F66E881003E0A02 /* Mi Horno 3 */,
+				F82F0C612F678266006BFFCD /* VisionTest */,
+				9325035D2F95858300E7F154 /* Mi Horno 3Tests */,
+				9325036A2F9585A600E7F154 /* TestCarlos */,
+				9325037D2F95D01E00E7F154 /* TestJoel */,
+				93906C7E2F96A01000992B13 /* TestSebastian */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5DDBD8F02F66E881003E0A02 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9325035C2F95858300E7F154 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		932503692F9585A600E7F154 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9325037C2F95D01E00E7F154 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93906C7D2F96A01000992B13 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F82F0C602F678266006BFFCD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5DDBD8EE2F66E881003E0A02 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9325035A2F95858300E7F154 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		932503672F9585A600E7F154 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9325037A2F95D01E00E7F154 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93906C7B2F96A01000992B13 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F82F0C5E2F678266006BFFCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		932503632F95858300E7F154 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5DDBD8F12F66E881003E0A02 /* Mi Horno 3 */;
+			targetProxy = 932503622F95858300E7F154 /* PBXContainerItemProxy */;
+		};
+		932503702F9585A600E7F154 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5DDBD8F12F66E881003E0A02 /* Mi Horno 3 */;
+			targetProxy = 9325036F2F9585A600E7F154 /* PBXContainerItemProxy */;
+		};
+		932503832F95D01E00E7F154 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5DDBD8F12F66E881003E0A02 /* Mi Horno 3 */;
+			targetProxy = 932503822F95D01E00E7F154 /* PBXContainerItemProxy */;
+		};
+		93906C842F96A01000992B13 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5DDBD8F12F66E881003E0A02 /* Mi Horno 3 */;
+			targetProxy = 93906C832F96A01000992B13 /* PBXContainerItemProxy */;
+		};
+		F82F0C672F678266006BFFCD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5DDBD8F12F66E881003E0A02 /* Mi Horno 3 */;
+			targetProxy = F82F0C662F678266006BFFCD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		5DDBD8FB2F66E882003E0A02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 547JL3DQST;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5DDBD8FC2F66E882003E0A02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 547JL3DQST;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5DDBD8FE2F66E882003E0A02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Mi Horno 3/Mi Horno 3.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Mi-Horno-3-Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Acceso a cámara para analizar con Groq";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Micrófono para escuchar tus preguntas";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Reconocimiento de voz para transcribir";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Mi-Horno-3-MP42";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5DDBD8FF2F66E882003E0A02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Mi Horno 3/Mi Horno 3.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Mi-Horno-3-Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Acceso a cámara para analizar con Groq";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Micrófono para escuchar tus preguntas";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Reconocimiento de voz para transcribir";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Mi-Horno-3-MP42";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		932503652F95858300E7F154 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Baranda.Mi-Horno-3Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Debug;
+		};
+		932503662F95858300E7F154 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Baranda.Mi-Horno-3Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Release;
+		};
+		932503722F9585A600E7F154 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Baranda.TestCarlos;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Debug;
+		};
+		932503732F9585A600E7F154 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Baranda.TestCarlos;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Release;
+		};
+		932503852F95D01E00E7F154 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Baranda.TestJoel;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Debug;
+		};
+		932503862F95D01E00E7F154 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Baranda.TestJoel;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Release;
+		};
+		93906C862F96A01000992B13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Baranda.TestSebastian;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Debug;
+		};
+		93906C872F96A01000992B13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Baranda.TestSebastian;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Release;
+		};
+		F82F0C682F678266006BFFCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.itesm.VisionTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Debug;
+		};
+		F82F0C692F678266006BFFCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LZR3G4ZXMV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.itesm.VisionTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mi Horno 3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mi Horno 3";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5DDBD8ED2F66E881003E0A02 /* Build configuration list for PBXProject "Mi Horno 3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5DDBD8FB2F66E882003E0A02 /* Debug */,
+				5DDBD8FC2F66E882003E0A02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5DDBD8FD2F66E882003E0A02 /* Build configuration list for PBXNativeTarget "Mi Horno 3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5DDBD8FE2F66E882003E0A02 /* Debug */,
+				5DDBD8FF2F66E882003E0A02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		932503642F95858300E7F154 /* Build configuration list for PBXNativeTarget "Mi Horno 3Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				932503652F95858300E7F154 /* Debug */,
+				932503662F95858300E7F154 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		932503712F9585A600E7F154 /* Build configuration list for PBXNativeTarget "TestCarlos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				932503722F9585A600E7F154 /* Debug */,
+				932503732F9585A600E7F154 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		932503842F95D01E00E7F154 /* Build configuration list for PBXNativeTarget "TestJoel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				932503852F95D01E00E7F154 /* Debug */,
+				932503862F95D01E00E7F154 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93906C852F96A01000992B13 /* Build configuration list for PBXNativeTarget "TestSebastian" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93906C862F96A01000992B13 /* Debug */,
+				93906C872F96A01000992B13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F82F0C6A2F678266006BFFCD /* Build configuration list for PBXNativeTarget "VisionTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F82F0C682F678266006BFFCD /* Debug */,
+				F82F0C692F678266006BFFCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		5DEEE0532FA16572009520AA /* XCRemoteSwiftPackageReference "mlx-swift-examples" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/ml-explore/mlx-swift-examples";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.29.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		5DEEE0542FA16572009520AA /* MLXLLM */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5DEEE0532FA16572009520AA /* XCRemoteSwiftPackageReference "mlx-swift-examples" */;
+			productName = MLXLLM;
+		};
+		5DEEE0562FA16572009520AA /* MLXLMCommon */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5DEEE0532FA16572009520AA /* XCRemoteSwiftPackageReference "mlx-swift-examples" */;
+			productName = MLXLMCommon;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 5DDBD8EA2F66E881003E0A02 /* Project object */;
+}

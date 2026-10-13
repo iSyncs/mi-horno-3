@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-04-23T01:55:17Z",
+        "event" : "projectCreated",
+        "id" : "A59B5ABF-1E26-42B2-A5B0-FA215C059705",
+        "subtitle" : "MyImageClassifier",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Carlos Baranda",
+  "createdDate" : "2026-04-23T01:55:17Z",
+  "description" : "",
+  "id" : "56A276CC-88C2-478D-B3D2-B6A22BA380B9",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-04-23T01:55:17Z",
+  "projectName" : "MyImageClassifier",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "imageClassifier",
+  "title" : "Image Classification",
+  "version" : "1.1"
+}

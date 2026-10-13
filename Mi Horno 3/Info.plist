@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Horno 3 necesita el micrófono para las funciones de subtítulos en vivo y conversación 1 a 1.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Horno 3 usa tu galería para probar desafíos con imágenes cuando la cámara no está disponible.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Horno 3 usa el reconocimiento de voz para transcribir exposiciones y traducir conversaciones en tiempo real.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Horno 3 usa la cámara para reconocer y traducir textos y señalizaciones del museo.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Horno 3 usa tu ubicación para mostrar tu posición dentro del museo.</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsLocalNetworking</key>
+        <true/>
+    </dict>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+    </array>
+</dict>
+</plist>
